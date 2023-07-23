@@ -20,3 +20,9 @@ This demo project demonstrates the implementation of security using Spring Boot 
 ### Application diagram
 
 ![Diagram](./diagram.png?raw=true "Diagram")
+
+
+#####
+t
+This demo project followed this video:
+https://www.youtube.com/watch?v=KxqlJblhzfI
