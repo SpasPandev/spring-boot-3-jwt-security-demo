@@ -8,6 +8,7 @@ This demo project demonstrates the implementation of security using Spring Boot 
 * Password encryption using BCrypt
 * Role-based authorization with Spring Security
 * Customized access denied handling
+* Logout mechanism
 
 ## Technologies
 * Spring Boot 3.0
@@ -23,6 +24,7 @@ This demo project demonstrates the implementation of security using Spring Boot 
 
 
 #####
-t
+
 This demo project followed this video:
 https://www.youtube.com/watch?v=KxqlJblhzfI
+For logout machanism this: https://www.youtube.com/watch?v=0GGFZdYe-FY
