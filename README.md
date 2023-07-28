@@ -9,6 +9,7 @@ This demo project demonstrates the implementation of security using Spring Boot 
 * Role-based authorization with Spring Security
 * Customized access denied handling
 * Logout mechanism
+* Refresh token
 
 ## Technologies
 * Spring Boot 3.0
@@ -26,5 +27,6 @@ This demo project demonstrates the implementation of security using Spring Boot 
 #####
 
 This demo project followed this video:
-https://www.youtube.com/watch?v=KxqlJblhzfI
-For logout machanism this: https://www.youtube.com/watch?v=0GGFZdYe-FY
+https://www.youtube.com/watch?v=KxqlJblhzfI   
+For logout machanism this: https://www.youtube.com/watch?v=0GGFZdYe-FY   
+For refresh token this: https://www.youtube.com/watch?v=EsVybSJr7zU
